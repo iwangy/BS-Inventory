@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BS-Inventory/static/css/main.74c68cc1.css",
+    "main.js": "/BS-Inventory/static/js/main.ee6d7034.js",
+    "static/js/787.c78a02d1.chunk.js": "/BS-Inventory/static/js/787.c78a02d1.chunk.js",
+    "index.html": "/BS-Inventory/index.html",
+    "main.74c68cc1.css.map": "/BS-Inventory/static/css/main.74c68cc1.css.map",
+    "main.ee6d7034.js.map": "/BS-Inventory/static/js/main.ee6d7034.js.map",
+    "787.c78a02d1.chunk.js.map": "/BS-Inventory/static/js/787.c78a02d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74c68cc1.css",
+    "static/js/main.ee6d7034.js"
+  ]
+}
