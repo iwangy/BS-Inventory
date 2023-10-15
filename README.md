@@ -11,4 +11,4 @@ BSInventory Heatmap I've visualized the BS I've encountered and BS I've created 
 
 ## Demo
 
-[View Demo](#)
+[View Demo](https://iwangy.github.io/BS-Inventory/)
